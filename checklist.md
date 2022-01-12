@@ -68,7 +68,7 @@ _* Based on WCAG Standards, but written and organized much more clearly_
 * [ ] Use a lang attribute on the html element
 
 ## **Homepage**
-* [ ] Check off all **AC** items of the following checklists:  (found above)
+* [ ] Check off all **Required ACs** items of the following checklists:  (found above)
 > * [ ] Global Code
 > * [ ] Keyboard
 > * [ ] Images - _(skip charts and graphs for now, let’s consider that a separate initiative)_
